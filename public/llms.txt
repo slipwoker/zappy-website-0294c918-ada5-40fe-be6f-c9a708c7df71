@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לאוסף הסקווישים האישי של לורן! כאן תמצאו סקווישים חמודים לילדים, דגמים נדירים ומיוחדים שיגרמו לכם להתאהב. היכנסו וגלו את הקסם!
+
+### אודות
+https://example.com/about
+מי היא לורן ולמה היא כל כך אוהבת סקווישים? גלו את הסיפור האישי, התשוקה לאספנות ואיך נבנה אוסף הסקווישים המיוחדים המדהים הזה מאהבה אמיתית!
+
+### גלריה
+https://example.com/gallery
+גלריית הסקווישים של לורן מלאה בדגמים נדירים, צבעוניים וחמודים שלא תראו בכל מקום! אוסף סקווישים מיוחדים לאוהבי אספנות — כל תמונה שווה אלף מילים. כנסו עכשיו!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה על סקווישים נדירים בישראל? רוצים להתחבר עם אספנית מושבעת? לורן שמחה לשמוע מכם — כתבו לה ובואו נדבר על העולם הכי רך ומתוק שיש!
+
+### Products
+https://example.com/products
+המוצרים שלנו - לורן
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - לורן
+
+### Category
+https://example.com/category/:slug
+מוצרים - לורן
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
